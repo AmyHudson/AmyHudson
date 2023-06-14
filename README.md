@@ -1,5 +1,5 @@
 ### 
-I'm interested in how climate and ecosystems interact across space and time. In my current position as a research ecologist with the USDA's Agricultural Research Service, I focus on how climate impacts the spread of arthropod-borne livestock diseases.
+I'm interested in how climate and ecosystems interact across space and time. In my current position as a research ecologist with the USDA's Agricultural Research Service, I explore how climate impacts the spread of arthropod-borne livestock diseases. 
 
 
 
