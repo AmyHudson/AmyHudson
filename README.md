@@ -1,5 +1,7 @@
 ### 
-I'm interested in how climate and ecology interact across space and time. In my current ORISE postdoc with the [Scientific Computing Initiative Network (SCINet)](https://scinet.usda.gov/) at USDA's Agricultural Research Service, I focus on how these interactions impact [dryland and agroecosystems across the globe and the spread of a livestock disease across the western US](https://scinet.usda.gov/stories/2021/04/15/Hudson.html). 
+I'm interested in how climate and ecosystems interact across space and time. In my current position as a research ecologist with the USDA's Agricultural Research Service, I focus on how climate impacts the spread of arthropod-borne livestock diseases.
+
+
 
 <!--
 **AmyHudson/AmyHudson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
